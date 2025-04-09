@@ -71,8 +71,11 @@ const App = () => {
 
 	  <h3><a href="https://www.spaceappschallenge.org/2023/challenges/magnetic-reconnection/">Understanding geomagnetic storms</a></h3>
         <p>
-          Magnetic reconnection (MR) is a process in which opposing magnetic field lines merge. If magnetic reconnection occurs between the interplanetary magnetic field (IMF) and Earth’s magnetic field, solar-wind plasma particles are permitted to enter the region of space near Earth (the geospace), potentially causing space weather events that could impact satellites in Earth orbit, as well as power systems on Earth. <b>Your challenge is to develop a computer program for the public that analyzes the IMF vector components measured by spacecraft to assess how often magnetic reconnection occurs.</b>
+            Magnetic reconnection (MR) is a process in which opposing magnetic field lines merge. If magnetic reconnection occurs between the interplanetary magnetic field (IMF) and Earth’s magnetic field, solar-wind plasma particles are permitted to enter the region of space near Earth (the geospace), potentially causing space weather events that could impact satellites in Earth orbit, as well as power systems on Earth. <b>Your challenge is to develop a computer program for the public that analyzes the IMF vector components measured by spacecraft to assess how often magnetic reconnection occurs.</b>
         </p>
+	  <p>
+	      <b>Additional Resources:</b> WoCCode mentors have collected additional background information and links to datasets that are relevant to this problem. <a href="https://docs.google.com/document/d/1KF9RZIckRYNorFPHsS8QueRTGVMiLZF5772u8WyVDNo/edit?usp=sharing">Click here to see it.</a>
+	  </p>
 	  <h3><a href="https://www.spaceappschallenge.org/2023/challenges/immersed-in-the-sounds-of-space/">Immersed in the sounds of space</a></h3>
           <p>
 	      NASA offers a variety of “sonifications” – translations of 2D astronomical data into sound –that provide a new way to experience imagery and other information from space. Advanced instruments currently provide hyperspectral (many color) images from space that are 3D (two spatial dimensions and one color dimension), and sophisticated techniques can be used to enhance 2D astronomical images to make video representations called “fly-throughs” that allow viewers to experience what it would look like to move among space objects in 3D (three simulated spatial dimensions). <b>Your challenge is to design a method to create sonifications of these 3D NASA space datasets to provide a different perceptual path that can help us understand and appreciate the wonders of the universe!</b>
@@ -81,6 +84,9 @@ const App = () => {
         <p>
 	    We are only just beginning to consider long-term habitation on the Moon and Mars, but what would be required in the distant future for successful exploration of even more remote planets or the icy moons of the gas giants, such as Saturn’s moon Titan? <b>Your challenge is to create an educational game (digital or analog) that poses these challenges, explores potential solutions, and inspires new generations of space explorers.</b>
         </p>
+	  <p>
+	      <b>Additional Resources:</b> WoCCode mentors have developed a presentation and tutorial on how to build a simple game with Python. <a href="https://docs.google.com/presentation/d/10ecbYkOtQX9H_34ebueB-p5qc65-gWaM/edit?usp=sharing&ouid=112930188907121714732&rtpof=true&sd=true">Click here</a> to see the presentation slides and <a href="https://drive.google.com/drive/folders/1Hj2bDt-gArvZZMcWFokk7m7KYVWl4kBu?usp=sharing">go here</a> to collect the necessary python code.
+	  </p>
       </section>
     </div>
   );
