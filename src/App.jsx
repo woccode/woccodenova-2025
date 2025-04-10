@@ -45,17 +45,13 @@ const App = () => {
           <h2>Schedule</h2>
 
 	  <h3>Friday, CCCB Room 3420</h3>
-          <ul>
 	      <li> 5:00 Dinner and mingling </li>
               <li> 5:30 Introductory remarks and kick-off</li>
               <li> 6:15 Team Formation </li>
               <li> 7:00 Tutorial: Accelerating your project with AI </li>
               <li> 7:30 Hacking </li>
               <li> 10:00 Vacate CCCB</li>
-          </ul>
-
 	  <h3>Saturday, CCCB Room 3420</h3>
-	  <ul>
 	      <li>9:00 Breakfast & hacking</li>
 	      <li>11:30 Break for lunch</li>
 	      <li>12:00 Remote talk and Q&A with NASA program officer</li>
@@ -63,7 +59,6 @@ const App = () => {
 	      <li>4:00 Project presentations & light dinner </li>
 	      <li>5:15 Award presentations and wrap-up</li>
 	      <li>6:00 Vacate CCCB</li>
-	  </ul>
       </section>
 
       <section id="prompts" className="section">
