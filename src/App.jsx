@@ -51,7 +51,6 @@ const App = () => {
               <li> 7:00 Tutorial: Accelerating your project with AI </li>
               <li> 7:30 Hacking </li>
               <li> 10:00 Vacate CCCB</li>
-
 	  <h3>Saturday, CCCB Room 3420</h3>
 	      <li>9:00 Breakfast & hacking</li>
 	      <li>11:30 Break for lunch</li>
