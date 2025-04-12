@@ -83,6 +83,16 @@ const App = () => {
 	      <b>Additional Resources:</b> WoCCode mentors have developed a presentation and tutorial on how to build a simple game with Python. <a href="https://docs.google.com/presentation/d/10ecbYkOtQX9H_34ebueB-p5qc65-gWaM/edit?usp=sharing&ouid=112930188907121714732&rtpof=true&sd=true">Click here</a> to see the presentation slides and <a href="https://drive.google.com/drive/folders/1Hj2bDt-gArvZZMcWFokk7m7KYVWl4kBu?usp=sharing">go here</a> to collect the necessary python code.
 	  </p>
       </section>
+
+      <section id="Tutorials" className="section">
+          <h2>Tutorials</h2>
+
+	  <p><a href="https://docs.google.com/presentation/d/1_Gi3rvHKFnc8HypE89Xk0GMiACGqb-1qsmUOyYYuvX0/edit?usp=sharing">Orientation Slides</a></p>
+
+	  <p><a href="/woccodenova-2025/tutorial.pdf">AI Tutorial: Using Cursor to accelerate your coding</a></p>
+
+      </section>
+
     </div>
   );
 };
