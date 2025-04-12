@@ -20,7 +20,8 @@ const App = () => {
         <a href="#overview">Overview</a>
         <a href="#schedule">Schedule</a>
         <a href="#prompts">Hackathon Prompts</a>
-	<a href="#tutorials">Talks & Tutorials</a>
+	  <a href="#tutorials">Talks & Tutorials</a>
+	  <a href="#solutions">Solutions</a>
       </nav>
 
       {/* Starfield */}
@@ -93,8 +94,15 @@ const App = () => {
 	  <p><a href="/woccodenova-2025/tutorial.pdf">AI Tutorial: Using Cursor to accelerate your coding</a></p>
 
 	  <p><a href="https://docs.google.com/presentation/d/1d5SJbLfe_zo9ln-82XoCFPfg7384mbInDHuWyppwLKg/edit?usp=sharing">Open Source Software and NASA</a>, Talk by Dr. Steve Crawford, Senior Program Executive</p>
-
       </section>
+
+	<section id="solutions" className="section">
+	    <h2>Solutions</h2>
+
+	    <p><b><a href="https://github.com/kgozman6159/cosmic-composers">Cosmic Composers</a>: Katja, Thab, Akshey, Shruti, Yunwoo, Vital (mentor)</b></p>
+
+	    <p><b><a href="https://github.com/Linvicky0/titan-3023">Titanauts</a>: Vicky, Qing, Camilla, Xinyue, Stiffany, Jamila (mentor), Amara (mentor)</b></p>
+	</section>
 
     </div>
   );
